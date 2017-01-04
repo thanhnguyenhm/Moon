@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello
+title: About Me
 tags: [about, me]
 date: 2017-01-03
 comments: false
@@ -36,6 +36,6 @@ To learn how to install and use this theme check out the [Setup Guide](http://ta
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}-->
 
-##Hello!
+## Hi!
 
 This is Thanh. 
