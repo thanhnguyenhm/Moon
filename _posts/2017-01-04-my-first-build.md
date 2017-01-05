@@ -34,7 +34,7 @@ Monitor: Samsung 23.6 with PLS panel
 
 <figure class="half">
 	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg"></a>
-	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg"></a>
+	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fb17bf994780409cb670f2faa8d71632.4ea1262ba07b61971f7b2b992d39153f.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fb17bf994780409cb670f2faa8d71632.4ea1262ba07b61971f7b2b992d39153f.1600.jpg"></a>
 	<figcaption>Two images.</figcaption>
 </figure>
 
