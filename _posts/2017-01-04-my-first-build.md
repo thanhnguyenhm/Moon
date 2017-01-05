@@ -13,9 +13,10 @@ comments: true
 
 - **RAM**: *Kingston Fury HyperX 1866 8GB (4GBx2)*. Discount 20% with Newegg pre-BlackFriday promotion
 
-<figure class="half">
-	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.0d788c5da519cb859a12a76131517c18.4a730fcc048edc60288398b44f366daf.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.0d788c5da519cb859a12a76131517c18.4a730fcc048edc60288398b44f366daf.1600.jpg"></a>
-	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.60291ddbbd9f92b1afc9f7e9d43010b0.d20f62160a9eb2fe2706d2ceac877ad9.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.60291ddbbd9f92b1afc9f7e9d43010b0.d20f62160a9eb2fe2706d2ceac877ad9.1600.jpg"></a>
+<figure class="third">
+	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.0d788c5da519cb859a12a76131517c18.4a730fcc048edc60288398b44f366daf.1600.jpg">
+	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.60291ddbbd9f92b1afc9f7e9d43010b0.d20f62160a9eb2fe2706d2ceac877ad9.1600.jpg">
+	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg">
 	<figcaption></figcaption>
 </figure>
 
@@ -33,8 +34,8 @@ Monitor: Samsung 23.6 with PLS panel
 - **I/O**: Asus DVD-RW, Logitech speaker, wireless mouse and keyboard. 
 
 <figure class="half">
-	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg"></a>
-	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fb17bf994780409cb670f2faa8d71632.4ea1262ba07b61971f7b2b992d39153f.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fb17bf994780409cb670f2faa8d71632.4ea1262ba07b61971f7b2b992d39153f.1600.jpg"></a>
+	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg">
+	<img src="https://lh3.googleusercontent.com/YBnUNVI98EYvsX6H95lpMTZihpWPXeRXZKK-6-9LeQC095qPrVThOH0BRDfjFFzLjfE2INPBFCIL5FWlVckXiU13rVEHhO88TKSUhCXaWXV7bpnKo1ua-IAlRRmFOqSiTYQswp_wkVNwE1aB36t2afM5Yup-yY2HhrzUgzj9g3kO9POKdMCl7KcTrXrcxivz9UvasTyG_-Q16gp5Ll5mV0yJL9dsWTCZvCp-Qc2vhgKKu7WT6PIP8QvYup3jabw33JJEfpnnX_JFCiigkGWRCYXtnij_fgZ_MgbhOCHPrMNOIAU1YwJDEK4Ql9IQ5m5nd7IRfHz2s-OK4aAY5AYLfzm2DIfZ44W0lBwyZqP4pTxAjeVc2ZHKuE3JCyZaIn0E4jOtuN7hi-OZeyxE0DfYf8M-v9MxtniP3RBOhrmZiI7KSjEU8C1CLQqLK9F8puPCCEUNXp1bZA48aiekSbqTJb4GZL2jjUdx7z0qMQAaIop_jMGj_TB7e_FkxRxmMyYTNgtpNDGetZ0TPCV7EP60wn_mNGvPbVB9kg8UG2qgcLKaiXnMXLtnqm5x7Gr8UNRKmNpsJO7PhLyoQHXf7vA9c5lxnFaLhsPDxRztAVt1LEmBGUeg4VDrLA=w640-h852-no">
 	<figcaption></figcaption>
 </figure>
 
