@@ -13,6 +13,12 @@ comments: true
 
 - **RAM**: *Kingston Fury HyperX 1866 8GB (4GBx2)*. Discount 20% with Newegg pre-BlackFriday promotion
 
+<figure class="half">
+	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.0d788c5da519cb859a12a76131517c18.4a730fcc048edc60288398b44f366daf.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.0d788c5da519cb859a12a76131517c18.4a730fcc048edc60288398b44f366daf.1600.jpg"></a>
+	<a href="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.60291ddbbd9f92b1afc9f7e9d43010b0.d20f62160a9eb2fe2706d2ceac877ad9.1600.jpg"><img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.60291ddbbd9f92b1afc9f7e9d43010b0.d20f62160a9eb2fe2706d2ceac877ad9.1600.jpg"></a>
+	<figcaption>Two images.</figcaption>
+</figure>
+
 - **PSU**: *Corsair CX430*. Good price with $20 rebate. Not modular nor semi-modular though. 
 
 - **Case**: *Corsair Graphite 230T* with window side panel and 3 fans with blue led. I bought this one at Amazon with the lowest price in this year. Apply gift card, so I only paid for the tax. 
