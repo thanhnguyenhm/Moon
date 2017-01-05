@@ -16,7 +16,7 @@ comments: true
 <figure class="third">
 	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.0d788c5da519cb859a12a76131517c18.4a730fcc048edc60288398b44f366daf.1600.jpg">
 	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.60291ddbbd9f92b1afc9f7e9d43010b0.d20f62160a9eb2fe2706d2ceac877ad9.1600.jpg">
-	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fc24ca173614a3cff039850b774519ba.c9f7310ddc8e5086363ae63107462cf8.1600.jpg">
+	<img src="https://cdn.pcpartpicker.com/static/forever/images/userbuild/138181.fb17bf994780409cb670f2faa8d71632.4ea1262ba07b61971f7b2b992d39153f.1600.jpg">
 	<figcaption></figcaption>
 </figure>
 
