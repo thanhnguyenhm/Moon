@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first build"
-date: 2011-11-21
+date: 2014-11-21
 excerpt: "My first personal computer system build"
 tags: [computer, personal, build]
 comments: true
