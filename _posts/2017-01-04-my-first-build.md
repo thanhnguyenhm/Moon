@@ -42,4 +42,4 @@ Monitor: Samsung 23.6 with PLS panel
 I'm really happy with every parts that I've chosen and finally it works! It's almost perfect with the budget. However, I still have some things on my wishlist for future upgrade: a graphic card, a better speaker, a backup external HDD and a mechanical keyboard :) maybe on next, next next Black Friday.
 {: .notice}
 
-<a href="http://www.w3schools.com/bootstrap/bootstrap_buttons.asp" class="btn btn-info" role="button">UPDATED HERE</a>
+<a href="/my-first-build-updated/" class="btn btn-info" role="button">UPDATED HERE</a>
