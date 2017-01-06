@@ -2,7 +2,7 @@
 layout: post
 title: "My first build (UPDATED)"
 date: 2017-01-05
-excerpt: "Upgrades on "My first build" post."
+excerpt: "Updates on My first build."
 tags: [computer, personal, build]
 comments: true
 ---
