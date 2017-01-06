@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "My first build"
+title: "My first build (UPDATED)"
 date: 2017-01-05
-excerpt: "My first personal computer system build (UPDATED)"
+excerpt: "Upgrades on "My first build" post."
 tags: [computer, personal, build]
 comments: true
 ---
