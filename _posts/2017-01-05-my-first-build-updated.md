@@ -32,8 +32,8 @@ I had been using it for more than a year and am still loving it. Recently I want
 <img src="https://lh3.googleusercontent.com/AJJuMmjF2Bd4NO3Ciq6TpoCjD8qhM1gJuWqp4Pmicg0_8A2Q_tXT6ns3YXFpPox_tzBtzOjPEjb0Odx8cfidvg_ukbSUfrgCWhdWum9HX91VWSsmSo56M9A6j800j2BiLO-ovtTj61jrMKBClZBFhuTCn1AclJxZUHkC9Cbk2-O9l4B9WhC6Byxlws4PC2bPjNnTWYqUaX3oVcEEOjUP3cbix-1A1Lo3SzqNwy4e1Dz8-hy7yDi0z82kmRegXYWLhQ4w9IX8fRLxndUwGjCLgQfQnfScSULCGzmYlRKrFE2bnql-xDuZqnNP6X3Bx3YCPTjfN6ELUOPC2Jyf7HVFf7xoBtdb0R_RsNCDc5pJjBGLSJ-ka8aTnvCTrTkMQ5DUpTs50s5E7-oq9AA11hVTo7FTiImTTXcn4aldIttjkI1ZLux89fOF6ORlwT_xoDechhjTkMnFyuCArvukSh3NGWLzFxDJQweCozqoTL0VBB4dBnv61rFFUNWdS_qc-8xPLAyQcO4hEe6fa8Gp-Ign53Ite46VUkN_OdeIBdNRrHoyrwF7wkdcAxppLNFDxDW7pBFJV2tZTYC5ffSbKuR8bmC27vQ4eCvHxoYJMHik9csoOCqaIviSCOupDVhlwgTd_yYGemAsBjqTYMR4G6BAnk3uw-LhFRCj-zXYEAGe-90=w2176-h1632-no">
 </figure>
 
-The 4-dollar Logitech speaker is still working unexpectedly. Find no reason to replace it. 
-Really wanna do dual-monitor right now but it seems hard to find the one that matches my old monitor. 
-The AMD works slower than I expect. I should've gone with Intel as I didn't play any new games that require good graphics.
-RAM, power supply, mainboard and HDD are still doing a good job and not gonna be replaced in at least 5 years hopefully. 
+The 4-dollar Logitech speaker is still working unexpectedly. Find no reason to replace it.  
+Really wanna do dual-monitor right now but it seems hard to find the one that matches my old monitor.  
+The AMD works slower than I expect. I should've gone with Intel as I didn't play any new games that require good graphics.  
+RAM, power supply, mainboard and HDD are still doing a good job and not gonna be replaced in at least 5 years hopefully.  
 Those are my best investment so far. Most of the parts are still in the same price compared to 2 years ago. Some even goes up! For electronics it's pretty unusual.
