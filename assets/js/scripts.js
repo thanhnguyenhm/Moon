@@ -55,3 +55,5 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
+
+window.onpageshow = function(event) { if (event.persisted) { window.location.reload() } };
