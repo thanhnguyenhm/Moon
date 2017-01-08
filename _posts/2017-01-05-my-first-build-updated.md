@@ -16,7 +16,7 @@ The most disappointing part is the SSD. Dead in 1 year. *Lesson learned*: stay a
 
  <figure>
 <img src="https://lh3.googleusercontent.com/RBoBNH5YJK8tqXLXQISUvMvj7FtjDw1Fh7a7wuRrEKwMf3xegFJSPWhgPL7bMp3xabMH24smlqrtlGKUI-O2hB2TC9fezjhVKfMQro0_clHVkY-rTYxlTphYriqYd8hSwfZwVsxvAzt1vju6Fg4yME9Cg_OX_JTJv86O7Wrozw0NaihCFtql-12WePa5hKTx-nmhVsH0tDtxX2ubXoaVCpCvEwZJ8aQleDpcWVR8rkUyHYAJ3VxcWSeA6Us8JMkmSOq0xU1Ngr8bt83PMDgW4tb4od39la1buiKLyzanbXRjMc6YU9Tp0ppNz9GM61jd8BV-gLid7a1XqiDyEc0s_L3a3RMJG0QwdY9bs8L3EDK4XDoc-krXW-MPYjof0HvEEAnOyR09ORq_7OJYMHV-yYiGsIFt44LWCMfmBLx38fwoioUdRHOxZhseYtu9OHMK_hWMNPiwt0ZIskfWRcOZPIFFl6Xrgx5fBIZYLH1Ve0mIqt9og1HJe52cJSUd-n9zQKItzG-Xi_ZrR2Y9xUr-Qc9gvc5Mbjj6c6so30QGs-NRKM-oTLXQVRwW9KA94OSiJYGFVrxaEhfHgkLpMPB1W4clYEKFsQI_osFyCsEBdI3qfaEWhNZ51Q0eCpBnkFoYcad_X4m2F_MmZwzIcuyXcibhYHTOlhjS-Gr69CvNVcY=w2176-h1632-no">
-<figcaption>My Dell XPS and the new baby </figcaption>
+<figcaption>My Dell XPS and the new baby :two_hearts: </figcaption>
 </figure>
 
 
